@@ -46,7 +46,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="Rekt Guy"
-                  image="traits.png"
+                  image="rektGuy.png"
                   buttonId={"two"}
                   buttonAction={action}
                   path="traits"
@@ -54,7 +54,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="Mfers"
-                  image="projects.png"
+                  image="mfer.png"
                   buttonId={"three"}
                   buttonAction={action}
                   path="projects"
@@ -62,7 +62,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="⌐◨-◨"
-                  image="cereal.png"
+                  image="nouns.png"
                   buttonId={"four"}
                   buttonAction={action}
                   path="dao-about"
