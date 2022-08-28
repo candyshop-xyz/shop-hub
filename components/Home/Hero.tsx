@@ -37,7 +37,7 @@ const Hero = () => {
             
               <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:mt-8 lg:grid-flow-col">
                 <NounishButton
-                  text="intro to mfers"
+                  text="Tiny Dinos"
                   image="intro.png"
                   buttonId={"one"}
                   buttonAction={action}
@@ -45,7 +45,7 @@ const Hero = () => {
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="view traits"
+                  text="Rekt Guy"
                   image="traits.png"
                   buttonId={"two"}
                   buttonAction={action}
@@ -53,7 +53,7 @@ const Hero = () => {
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="mfers projects"
+                  text="mfers"
                   image="projects.png"
                   buttonId={"three"}
                   buttonAction={action}
@@ -61,7 +61,7 @@ const Hero = () => {
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="cereal box dao"
+                  text="⌐◨-◨"
                   image="cereal.png"
                   buttonId={"four"}
                   buttonAction={action}
