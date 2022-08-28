@@ -34,7 +34,7 @@ const Hero = () => {
                 🍬 The Candy Shop 🍬
               </h1>
           <h4>
-            a cereal box dao project
+            "Constantly creating in the creative commons"
               </h4>
             
               <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:mt-8 lg:grid-flow-col">
