@@ -38,7 +38,7 @@ const Hero = () => {
               <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:mt-8 lg:grid-flow-col">
                 <NounishButton
                   text="Tiny Dinos"
-                  image="intro.png"
+                  image="tinyDino.png"
                   buttonId={"one"}
                   buttonAction={action}
                   path="intro"
