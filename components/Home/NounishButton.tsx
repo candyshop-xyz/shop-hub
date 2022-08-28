@@ -30,7 +30,7 @@ export const Home: React.FC<{
     <Link passHref href={`/${path}`}>
       <div className="mt-3 sm:mt-0">
         <div className="nounish_button" id={buttonId.toString()}>
-          <button className="tiles"
+          <button
             disabled={false}
             onClick={() => {
               animation();
