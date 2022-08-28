@@ -8,9 +8,6 @@ const Footer = () => {
   return (
     <div className="relative xs:px-6 sm:px-0 text-black font-medium gap-2 items-center w-full flex flex-col text-center">
       {asPath === "/" && (
-
-      )}
-      {asPath === "/" && (
         <p>
 
         </p>
