@@ -11,11 +11,13 @@ const Footer = () => {
         <p>
           constantly creating in the creative commons
         </p>
+      )}
+      <div className="relative xs:px-6 sm:px-0 text-black font-medium gap-2 items-center w-full flex flex-col text-center">
+      {asPath === "/" && (
         <p>
-          theCandyShop
+         -theCandyShop
         </p>
       )}
-
       <div className="flex gap-8 items-center">
         {/* Twitter */}
         <a href="https://twitter.com/cerealboxdao" target="_blank" rel="noreferrer">
