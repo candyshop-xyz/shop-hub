@@ -77,8 +77,32 @@ const Hero = () => {
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="cryptoad"
+                  text="cryptoads"
                   image="cryptoad.png"
+                  buttonId={"six"}
+                  buttonAction={action}
+                  path="projects"
+                  color="bg-blue-base"
+                />
+                <NounishButton
+                  text="cryptodickbutts"
+                  image="cryptodickbutts.png"
+                  buttonId={"six"}
+                  buttonAction={action}
+                  path="projects"
+                  color="bg-blue-base"
+                />
+                <NounishButton
+                  text="moonbirds"
+                  image="moonbirds.png"
+                  buttonId={"six"}
+                  buttonAction={action}
+                  path="projects"
+                  color="bg-blue-base"
+                />
+                <NounishButton
+                  text="xcopy"
+                  image="xcopy.png"
                   buttonId={"six"}
                   buttonAction={action}
                   path="projects"
