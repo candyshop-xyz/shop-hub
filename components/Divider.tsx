@@ -7,7 +7,7 @@ const Divider = () => {
         <div className="w-full border-t border-gray-300" />
       </div>
       <div className="relative flex justify-center">
-        <span className="px-2 bg-grey-lightest  text-sm"><img src="earth.png" width="40px" height="40px" /></span>
+        <span className="px-2 bg-grey-lightest  text-sm">🍬🍭🍫</span>
       </div>
     </div>
   );
