@@ -38,7 +38,7 @@ const Hero = () => {
               <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:mt-8 lg:grid-flow-col">
                 <NounishButton
                   text="Projects"
-                  image="projects.png"
+                  image="mfer.png"
                   buttonId={"one"}
                   buttonAction={action}
                   path="intro"
@@ -46,7 +46,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="Shop"
-                  image="shop.png"
+                  image="noun.png"
                   buttonId={"two"}
                   buttonAction={action}
                   path="traits"
@@ -54,7 +54,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="Team"
-                  image="team.png"
+                  image="tinyDino.png"
                   buttonId={"three"}
                   buttonAction={action}
                   path="projects"
@@ -62,7 +62,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="DAO"
-                  image="dao.png"
+                  image="rektGuy.png"
                   buttonId={"four"}
                   buttonAction={action}
                   path="dao-about"
