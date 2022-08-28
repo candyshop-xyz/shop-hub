@@ -76,6 +76,14 @@ const Hero = () => {
                   path="projects"
                   color="bg-blue-base"
                 />
+                <NounishButton
+                  text="cryptoad"
+                  image="cryptoad.png"
+                  buttonId={"six"}
+                  buttonAction={action}
+                  path="projects"
+                  color="bg-blue-base"
+                />
               </div>
             </div>
           </main>
