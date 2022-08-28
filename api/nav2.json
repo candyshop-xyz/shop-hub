@@ -1,6 +1,6 @@
 [
   {
-    "name": "about mfers",
+    "name": "Projects",
     "defaultOpen": true,
     "current": false,
     "children": [
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "name": "for builders",
+    "name": "Shops",
     "current": false,
     "children": [
       {
@@ -38,7 +38,7 @@
     ]
   },
   {
-    "name": "community",
+    "name": "Team",
     "current": false,
     "children": [
       {
@@ -64,7 +64,7 @@
      ]
   },
   {
-    "name": "cereal box dao",
+    "name": "DAO",
     "current": false,
     "children": [
       {
