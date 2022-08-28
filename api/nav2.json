@@ -63,7 +63,7 @@
         "external": false
       },
       {
-        "name": "Moloch Governance",
+        "name": "Governance",
         "link": "/dao-nftmintingapp",
         "external": false
       },
@@ -73,7 +73,7 @@
         "external": true
       },
       {
-        "name": "members",
+        "name": "Token",
         "link": "/dao-members",
         "external": false
       },      
