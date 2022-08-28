@@ -38,11 +38,11 @@
     ]
   },
   {
-    "name": "Team",
+    "name": "About",
     "current": false,
     "children": [
       {
-        "name": "talent",
+        "name": "Team",
         "link": "/talent",
         "external": false
       }
