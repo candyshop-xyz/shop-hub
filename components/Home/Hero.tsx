@@ -53,7 +53,7 @@ const Hero = () => {
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="mfers"
+                  text="Mfers"
                   image="projects.png"
                   buttonId={"three"}
                   buttonAction={action}
