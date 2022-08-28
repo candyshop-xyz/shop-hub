@@ -42,6 +42,11 @@
     "current": false,
     "children": [
       {
+        "name": "Our Story",
+        "link": "/dao-nftmintingapp",
+        "external": false
+      },
+      {
         "name": "Team",
         "link": "/talent",
         "external": false
