@@ -96,22 +96,7 @@
         "name": "podcast",
         "link": "/dao-podcast",
         "external": false
-      }, {
-    "name": "Legal",
-    "current": false,
-    "children": [
-      {
-        "name": "Terms of Service",
-        "link": "/dao-nftmintingapp",
-        "external": false
-      },
-      {
-        "name": "Privacy",
-        "link": "/talent",
-        "external": false
       }
-     ]
-  },
     ]
   }
 ]
