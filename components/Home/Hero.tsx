@@ -46,7 +46,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="Shop"
-                  image="noun.png"
+                  image="nouns.png"
                   buttonId={"two"}
                   buttonAction={action}
                   path="traits"
