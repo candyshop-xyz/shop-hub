@@ -5,7 +5,7 @@
     "current": false,
     "children": [
       {
-        "name": "what are mfers",
+        "name": "Sweet Times",
         "link": "/intro",
         "external": false
       },
@@ -58,17 +58,17 @@
     "current": false,
     "children": [
       {
-        "name": "about",
+        "name": "FAQ",
         "link": "/dao-about",
         "external": false
       },
       {
-        "name": "dao nft",
+        "name": "Moloch Governance",
         "link": "/dao-nftmintingapp",
         "external": false
       },
       {
-        "name": "dao nft marketplace",
+        "name": "Proposals",
         "link": "https://cerealboxdao.wlbl.xyz/",
         "external": true
       },
