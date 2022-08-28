@@ -11,6 +11,9 @@ const Footer = () => {
         <p>
           constantly creating in the creative commons
         </p>
+        <p>
+          -theCandyShop
+        </p>
       )}
 
       <div className="flex gap-8 items-center">
