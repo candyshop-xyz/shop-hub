@@ -22,7 +22,7 @@ export default function Home() {
           `}
       </Script>
       
-      <Header title="mfers hub" />
+      <Header title="🍬🍭🍫" />
 
       <Hero />
     </>
