@@ -1,0 +1,638 @@
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@100;300;400;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@layer components {
+  .notion {
+    @apply text-black  caret-black;
+  }
+  .notion-text,
+  .notion-code {
+    @apply whitespace-normal;
+  }
+  .notion li {
+    @apply text-black whitespace-pre-wrap;
+  }
+  .notionNotes .notion li {
+    @apply text-black;
+  }
+  .introNouns {
+    @apply text-black;
+  }
+  .introNouns .notion-h1,
+  .notion-h2,
+  .notion-h3 {
+    @apply text-black;
+  }
+  .introNouns .notion-text {
+    @apply text-black;
+  }
+  .introNouns .notion-row {
+    @apply text-black;
+  }
+  .introNouns .notion-callout-text {
+    @apply text-black;
+  }
+
+  .bg-gradient3 {
+    @apply bg-black sm:bg-opacity-100 dark:bg-black dark:bg-opacity-10;
+  }
+  .DocSearch-Container {
+    @apply bg-white bg-opacity-40 dark:bg-black dark:bg-opacity-10 !important;
+  }
+  background: rgba(255, 255, 255, 0.9) !important;
+}
+@font-face {
+  font-family: "CalSans";
+  src: local("CalSans"), url("/fonts/CalSans.woff2") format("woff2");
+}
+@font-face {
+  font-family: "PTRootUI";
+  src: url("/fonts/PTRootUI/PT-Root-UI_Light.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PTRootUI";
+  src: url("/fonts/PTRootUI/PT-Root-UI_Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PTRootUI";
+  src: url("/fonts/PTRootUI/PT-Root-UI_Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PTRootUI";
+  src: url("/fonts/PTRootUI/PT-Root-UI_Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "PTRootUI";
+  src: url("/fonts/PTRootUI/PT-Root-UI_VF.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "mferFont";
+  src: url("/fonts/SartoshiScript-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+  
+@tailwind utilities;
+
+.text-nouns {
+  font-family: "Londrina Solid", sans-serif;
+}
+
+.mferFont {
+  font-family: "mferFont";
+}
+
+.text-pt {
+  font-family: "PTRootUI";
+}
+
+.darkMode {
+  color: yelllow !important;
+}
+
+body {
+  color: #292929;
+  font-family: ;
+}
+
+h1 {
+  font-size: 56px;
+}
+h2 {
+  font-size: 40px;
+  letter-spacing: 0.01em;
+}
+h3 {
+  font-size: 36px;
+  letter-spacing: 0.015em;
+}
+h4 {
+  font-size: 28px;
+  letter-spacing: 0.02em;
+}
+h5 {
+  font-size: 20px;
+  letter-spacing: 0.03em;
+}
+
+h6 {
+  font-size: 16px;
+  letter-spacing: 0.04em;
+}
+
+h7 {
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  margin-bottom: 8px;
+}
+  
+.quote {
+  font-size: 24px;
+  letter-spacing: 0.02em;
+}
+.smaller_cal_sans {
+  font-size: 18px;
+  letter-spacing: 0.045em;
+}
+.gradient {
+  background-image: linear-gradient(0deg, rgb(0 0 0 / 70%), transparent);
+}
+.gradient2 {
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.58141193977591037) 0%,
+    rgba(0, 0, 0, 0) 93%
+  );
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.5) 5%,
+    rgba(0, 0, 0, 0.05) 50%
+  );
+}
+
+.gradient:hover {
+  background-image: linear-gradient(0deg, rgb(0 0 0 / 85%), transparent);
+}
+
+/*  */
+/*  */
+/*  */
+
+.interstitial-wrapper {
+  margin: 0 !important;
+}
+
+.notion-text {
+  font-size: 28px;
+  font-family: "Londrina Solid", sans-serif;
+  letter-spacing: 0.07rem;
+  text-decoration: underline;
+}
+.notion-text:not(:first-child) {
+  margin-top: 25px;
+}
+
+.embed-page .publication-tagline {
+  display: none !important;
+}
+.embed-page .publication-name {
+  display: none !important;
+}
+.embed-page .no-logo {
+  display: none !important;
+}
+.embed-page .substack-watermark {
+  display: none !important;
+}
+
+.newsletter .embed-page {
+  height: auto !important;
+}
+
+.subscribe-widget .sideBySideWrap input {
+  height: 30px !important;
+  font-size: 10px !important;
+}
+
+.subscribe-widget .sideBySideWrap button {
+  background: darkslategrey !important;
+  font-size: 10px !important;
+  height: 30px !important;
+  min-width: 80px !important;
+  padding: 0px 8px !important;
+}
+.my-masonry-grid {
+  display: -webkit-box; /* Not needed if autoprefixing */
+  display: -ms-flexbox; /* Not needed if autoprefixing */
+  display: flex;
+  margin-left: -30px; /* gutter size offset */
+  width: auto;
+}
+.my-masonry-grid_column {
+  padding-left: 30px; /* gutter size */
+  background-clip: padding-box;
+}
+
+/* Style your items */
+.my-masonry-grid_column > div {
+  /* change div to reference your elements you put in <Masonry> */
+  background: grey;
+  margin-bottom: 30px;
+}
+
+@media (min-width: 1169px) {
+  .vertical-timeline-element-date {
+    padding: 10px !important;
+
+    opacity: 100%;
+  }
+}
+
+.embed-page {
+  padding: 0px !important;
+}
+
+.introNouns .notion-h1,
+.notion-h2,
+.notion-h3 {
+  font-family: "Londrina Solid";
+  font-size: 1.875em !important;
+}
+.introNouns .notion-text {
+  font-size: 18px !important;
+  font-family: "PTRootUI" !important;
+  text-decoration: none !important;
+  letter-spacing: normal !important;
+}
+.introNouns .notion-h1:not(:first-child) {
+  margin-top: 45px !important;
+}
+.introNouns .notion-row {
+  display: flex !important;
+  justify-content: space-between;
+}
+
+@media (max-width: 640px) {
+  .introNouns .notion-spacer {
+    display: none !important;
+  }
+  .introNouns .notion-row {
+    justify-content: space-between !important;
+  }
+}
+
+.introNouns .notion-asset-wrapper {
+  width: auto !important;
+}
+.introNouns .notion-asset-wrapper div {
+  padding-bottom: inherit !important;
+}
+.introNouns .notion-text:not(:first-child) {
+  margin-top: 0px !important;
+  margin-botom: 10px !important;
+}
+
+.introNouns .notion-link {
+  color: #3e64ff;
+  font-family: "Londrina solid";
+  letter-spacing: 0.05em;
+  text-decoration: underline;
+  transition-property: color, background-color, border-color,
+    text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter,
+    backdrop-filter;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+.introNouns .notion-link:hover {
+  color: #1d4ed8;
+}
+
+.nouners .notion-h2 {
+  font-family: "PTRootUI" !important;
+  text-decoration: underline !important;
+  font-size: 1.5rem !important;
+  font-weight: 700 !important;
+  margin-top: 25px !important;
+}
+.nouners .notion-h3 {
+  font-family: "PTRootUI" !important;
+  color: #3e64ff !important;
+  font-weight: 700 !important;
+  margin-bottom: 5px !important;
+  margin-top: 25px !important;
+  max-width: fit-content !important;
+  font-size: 1.35em !important;
+}
+
+.nouners .notion-asset-wrapper {
+  display: none;
+}
+
+.nouners .notion-text:first-of-type {
+  display: none;
+}
+.nouners .notion-h1:first-of-type {
+  margin-top: 0px !important;
+}
+.devGrid ul li:nth-child(4n) {
+  border: none;
+}
+
+#background-video {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+}
+.bg-gradient {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  opacity: 95%;
+  background: linear-gradient(
+      -53deg,
+      rgba(0, 0, 0, 0.8),
+      rgba(0, 0, 0, 0) 90.71%
+    ),
+    linear-gradient(127deg, rgba(0, 0, 0, 0.8), rgba(0, 255, 0, 0) 70.71%),
+    linear-gradient(336deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 255, 0) 70.71%);
+}
+
+  
+@media (max-width: 640px) {
+  .bg-gradient {
+    display: none;
+  }
+  .bg-gradient2 {
+    display: none;
+  }
+}
+.nounish {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+}
+
+.bg-gradient2 {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  opacity: 50%;
+  background: #151515;
+  background: linear-gradient(to top, #000000, #151515, #151515);
+  background-image: radial-gradient(
+    farthest-side at 100% 21%,
+    transparent,
+    #151515
+  );
+  background: linear-gradient(
+    0deg,
+    transparent,
+    rgba(0, 0, 0, 0.03) 15%,
+    rgba(0, 0, 0, 0.125) 30%,
+    rgba(0, 0, 0, 0.25) 46%,
+    rgba(0, 0, 0, 0.4) 61%,
+    rgba(0, 0, 0, 0.553) 75%,
+    rgba(0, 0, 0, 0.694) 88%,
+    rgba(0, 0, 0, 0.8)
+  );
+}
+@media (min-width: 640px) {
+  .bg-gradient3 {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    background: #292929;
+    background: black;
+    opacity: 75%;
+  }
+}
+
+.aa-Autocomplete {
+  width: 75% !important;
+  margin: auto !important;
+}
+@media (max-width: 640px) {
+  .aa-Autocomplete {
+    width: 100% !important;
+  }
+  .aa-Autocomplete button {
+    border-radius: 12px !important;
+  }
+}
+.aa-Form {
+  border-radius: 12px !important;
+  min-height: 55px !important;
+  width: 75% !important;
+  margin: auto !important;
+}
+.aa-Autocomplete {
+  border-radius: 12px !important;
+}
+
+.aa-SubmitIcon {
+  fill: lightgrey !important;
+}
+
+.nounish_button {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-animation: nounish-button 2s infinite;
+  animation: nounish-button 2s infinite;
+  animation-duration: 2s;
+  animation-timing-function: ease;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+  animation-fill-mode: none;
+  animation-play-state: running;
+  animation-name: nounish-button;
+  position: relative;
+  -webkit-transition: 0.125s ease;
+  transition: 0.125s ease;
+  z-index: 2;
+}
+
+.DocSearch-Button {
+  @apply bg-grey-lighter !important;
+}
+.DocSearch-Container {
+  @apply bg-white bg-opacity-90 dark:bg-black dark:bg-opacity-70 !important;
+}
+.vertical-timeline-element-date {
+  @apply text-black;
+}
+.vertical-timeline-element--work {
+  @apply text-black;
+}
+.vertical-timeline:before {
+  background: #ebebeb !important;
+}
+.vertical-timeline.vertical-timeline--two-columns:before.vertical-timeline:before {
+  background: #ebebeb !important;
+}
+.vertical-timeline-element-icon {
+  box-shadow: none !important;
+  outline: 4px solid #ebebeb;
+  border-radius: 50px !important;
+}
+.vertical-timeline {
+  width: 100% !important;
+}
+
+.devNotion .notion-code {
+  margin-bottom: 25px;
+  background: red;
+  background: #e0d6d4;
+  padding: 34px 16px 32px 32px;
+  overflow-x: auto;
+}
+
+.devNotion .notion-code code {
+  flex-grow: 1;
+  flex-shrink: 1;
+  text-align: left;
+  font-family: SFMono-Regular, Menlo, Consolas, "PT Mono", "Liberation Mono",
+    Courier, monospace;
+  font-size: 85%;
+  tab-size: 2;
+  min-height: 1em;
+  white-space: pre;
+}
+
+.devNotion table {
+  background: #e0d6d4;
+  table-layout: fixed;
+  width: 100%;
+}
+.devNotion .notion-h2,
+.notion-h3 {
+  margin-top: 45px !important;
+}
+.devNotion .notion-table .notion-td {
+  overflow-wrap: break-word;
+}
+
+.selectionWrap {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto auto auto auto;
+  margin: 30px;
+}
+
+@media (max-width: 800px) {
+  .selectionWrap {
+    margin-top: 15px;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto auto auto auto auto;    
+    margin: 50px 0px 20px 0px !important;
+  }
+}
+
+canvas {
+  width: 500px;
+  height: 500px;
+  border: 3px solid red;
+}
+
+@media (max-width: 800px) {
+  canvas {
+    width: 300px !important;
+    height: 300px !important;
+  }
+}
+
+label {
+  text-transform: capitalize;
+  font-family: "mferFont";
+  font-size: 20px;
+}
+
+.canvasWrap {
+  margin-top: 30px;
+}
+
+canvas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border: 3px dotted black;
+}
+
+.optionsWrap {
+  margin-left: auto;
+  cursor: pointer;
+  margin-right: auto;
+  font-size: 15px;
+  display: flex;
+  padding: 8px;
+  margin-bottom: 20px;
+  flex-direction: column;
+  width: 130px
+}
+@media (max-width: 800px) {
+  .optionsWrap {
+    width: 130px;
+    padding: 0px;
+  }
+  .optionsWrap select {
+    padding: 4px;
+  }
+}
+
+.mySelector {
+  display: flex;
+  width: 190px;
+  height: 30px;
+}
+.mySelector {
+  margin: 10px 0;
+}
+
+.export {
+  height: 50px;
+  width: 181px;
+  background: grey;
+  border: 1px solid black;
+  text-align: center;
+  padding-top: 6px;
+  cursor: pointer;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+  color: white;
+  margin-top: 30px;
+  font-family: "mferFont";
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background: #bfbb98;
+  color: black;
+  transition-property: color, background-color, border-color,
+    text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter,
+    backdrop-filter;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+  transition-duration: 200ms;
+  background: whitesmoke;
+}
+.export:hover {
+  background: #c2c2c2;
+  color: black;
+}
+
+@media (max-width: 800px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}
