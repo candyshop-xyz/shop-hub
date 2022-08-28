@@ -33,7 +33,7 @@ const Hero = () => {
           <h1 className="font-extrabold text-7xl md:text-8xl mferFont tracking-wider flex gap-4 justify-center">
                 The Candy Shop
               </h1>
-          <h4></h4>
+          <h4>taste the creative commons</h4>
             
               <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:mt-8 lg:grid-flow-col">
                 <NounishButton
