@@ -14,7 +14,7 @@ const Footer = () => {
       )}
       {asPath === "/" && (
         <p>
-         --- 🍬🍭🍫 ---
+
         </p>
       )}
       <div className="flex gap-8 items-center">
