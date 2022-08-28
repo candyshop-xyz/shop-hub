@@ -5,6 +5,7 @@ import { autocomplete, getAlgoliaResults } from "@algolia/autocomplete-js";
 import "@algolia/autocomplete-theme-classic";
 import NounishButton from "./NounishButton";
 import Footer from "../Footer";
+import Divider from "../Divider";
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
