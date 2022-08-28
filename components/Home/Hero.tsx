@@ -35,7 +35,7 @@ const Hero = () => {
               </h1>
           <h4 className="mferFont title">... taste the commons</h4>
             
-              <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:mt-8 lg:flex">
+              <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:mt-8 lg:grid grid-cols-3 grid-rows-2">
                 <NounishButton
                   text="mfers"
                   image="mfer.png"
