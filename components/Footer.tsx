@@ -1,4 +1,5 @@
 import React from "react";
+import Divider from "../Divider";
 import { useRouter } from "next/router";
 
 const Footer = () => {
