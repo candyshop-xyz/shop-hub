@@ -9,8 +9,7 @@ const Footer = () => {
     <div className="relative xs:px-6 sm:px-0 text-black font-medium gap-2 items-center w-full flex flex-col text-center">
       {asPath === "/" && (
         <p>
-          mfers hub serves as the knowledge center &#38; resource hub for
-          the mfers ecosystem
+          "Constantly creating in the creative commons."
         </p>
       )}
 
