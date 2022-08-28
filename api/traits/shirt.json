@@ -1,0 +1,54 @@
+[
+  {
+    "fileId": "shirt-none",
+    "name": "none"
+  },
+  {
+    "fileId": "shirt-collaredshirtblue",
+    "name": "collared-shirt-blue"
+  },
+  {
+    "fileId": "shirt-collaredshirtgreen",
+    "name": "collared-shirt-green"
+  },
+  {
+    "fileId": "shirt-collaredshirtpink",
+    "name": "collared-shirt-pink"
+  },
+  {
+    "fileId": "shirt-collaredshirtturquoise",
+    "name": "collared-shirt-turquoise"
+  },
+  {
+    "fileId": "shirt-collaredshirtwhite",
+    "name": "collared-shirt-white"
+  },
+  {
+    "fileId": "shirt-collaredshirtyellow",
+    "name": "collared-shirt-yellow"
+  },
+  {
+    "fileId": "shirt-hoodiedownblue",
+    "name": "hoodie-down-blue"
+  },
+  {
+    "fileId": "shirt-hoodiedowngray",
+    "name": "hoodie-down-gray"
+  },
+  {
+    "fileId": "shirt-hoodiedowngreen",
+    "name": "hoodie-down-green"
+  },
+  {
+    "fileId": "shirt-hoodiedownpink",
+    "name": "hoodie-down-pink"
+  },
+  {
+    "fileId": "shirt-hoodiedownred",
+    "name": "hoodie-down-red"
+  },
+  {
+    "fileId": "shirt-hoodiedownwhite",
+    "name": "hoodie-down-white"
+  }
+]

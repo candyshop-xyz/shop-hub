@@ -1,0 +1,46 @@
+[
+  {
+    "fileId": "eyes-none",
+    "name": "none"
+  },
+  {
+    "fileId": "eyes-3dglasses",
+    "name": "3d-glasses"
+  },
+  {
+    "fileId": "eyes-alieneyes",
+    "name": "alien-eyes"
+  },
+  {
+    "fileId": "eyes-eyemask",
+    "name": "eye-mask"
+  },
+  {
+    "fileId": "eyes-eyepatch",
+    "name": "eye-patch"
+  },
+  {
+    "fileId": "eyes-nerdglasses",
+    "name": "nerd-glasses"
+  },
+  {
+    "fileId": "eyes-purpleshades",
+    "name": "purple-shades"
+  },
+  {
+    "fileId": "eyes-regulareyes",
+    "name": "regular-eyes"
+  },
+  {
+    "fileId": "eyes-shades",
+    "name": "shades"
+  },
+  {
+    "fileId": "eyes-vr",
+    "name": "vr"
+  },
+  {
+    "fileId": "eyes-zombieeyes",
+    "name": "zombie-eyes"
+  }
+]

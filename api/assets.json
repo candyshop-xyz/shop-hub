@@ -1,0 +1,26 @@
+[
+  {
+    "title": "traits - 1,000x1,000px pngs",
+    "image": "mferslayers.png",
+    "file": "mfers-layers.zip",
+    "download": true
+  },
+  {
+    "title": "mfers images and metadata",
+    "image": "ogcollection.png",
+    "file": "https://drive.google.com/drive/folders/1VfCnmP4NBfDWH9htf_KKWJhNbUXhb2TV",
+    "download": false
+  },
+  {
+    "title": "build-a-mfer - figma",
+    "image": "figma.png",
+    "file": "https://www.figma.com/file/cXgSA8ZNGPFexGbNmR5aqX/build-a-mfer",
+    "download": false
+  },
+  {
+    "title": "mfer heads",
+    "image": "mferheads.png",
+    "file": "https://drive.google.com/file/d/1jKxTkfq3UEprpQl0MUndlbNpo1H3N33t/view?usp=sharing",
+    "download": false
+  }
+]

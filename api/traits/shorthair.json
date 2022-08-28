@@ -1,0 +1,50 @@
+[
+  {
+    "fileId": "shorthair-none",
+    "name": "none"
+  },
+  {
+    "fileId": "shorthair-messyblack",
+    "name": "messy-black"
+  },
+  {
+    "fileId": "shorthair-messypurple",
+    "name": "messy-purple"
+  },
+  {
+    "fileId": "shorthair-messyred",
+    "name": "messy-red"
+  },
+  {
+    "fileId": "shorthair-messyyellow",
+    "name": "messy-yellow"
+  },
+  {
+    "fileId": "shorthair-mohawkblack",
+    "name": "mohawk-black"
+  },
+  {
+    "fileId": "shorthair-mohawkblue",
+    "name": "mohawk-blue"
+  },
+  {
+    "fileId": "shorthair-mohawkgreen",
+    "name": "mohawk-green"
+  },
+  {
+    "fileId": "shorthair-mohawkpink",
+    "name": "mohawk-pink"
+  },
+  {
+    "fileId": "shorthair-mohawkpurple",
+    "name": "mohawk-purple"
+  },
+  {
+    "fileId": "shorthair-mohawkred",
+    "name": "mohawk-red"
+  },
+  {
+    "fileId": "shorthair-mohawkyellow",
+    "name": "mohawk-yellow"
+  }
+]

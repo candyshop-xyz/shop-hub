@@ -1,0 +1,46 @@
+[
+  {
+    "fileId": "hatoverheadphones-none",
+    "name": "none"
+  },
+  {
+    "fileId": "hatoverheadphones-cowboyhat",
+    "name": "cowboy-hat"
+  },
+  {
+    "fileId": "hatoverheadphones-hoodie",
+    "name": "hoodie"
+  },
+  {
+    "fileId": "hatoverheadphones-hoodieblack",
+    "name": "hoodie-black"
+  },
+  {
+    "fileId": "hatoverheadphones-hoodiegreen",
+    "name": "hoodie-green"
+  },
+  {
+    "fileId": "hatoverheadphones-hoodieorange",
+    "name": "hoodie-orange"
+  },
+  {
+    "fileId": "hatoverheadphones-hoodiepink",
+    "name": "hoodie-pink"
+  },
+  {
+    "fileId": "hatoverheadphones-hoodiepurple",
+    "name": "hoodie-purple"
+  },
+  {
+    "fileId": "hatoverheadphones-hoodiered",
+    "name": "hoodie-red"
+  },
+  {
+    "fileId": "hatoverheadphones-pilothelmet",
+    "name": "pilot-helmet"
+  },
+  {
+    "fileId": "hatoverheadphones-tophat",
+    "name": "top-hat"
+  }
+]

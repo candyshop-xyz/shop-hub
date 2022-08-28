@@ -1,0 +1,112 @@
+[
+  {
+    "name": "about mfers",
+    "defaultOpen": true,
+    "current": false,
+    "children": [
+      {
+        "name": "what are mfers",
+        "link": "/intro",
+        "external": false
+      },
+      {
+        "name": "history",
+        "link": "/history",
+        "external": false
+      }
+    ]
+  },
+  {
+    "name": "for builders",
+    "current": false,
+    "children": [
+      {
+        "name": "traits",
+        "link": "/traits",
+        "external": false
+      },
+      {
+        "name": "assets",
+        "link": "/assets",
+        "external": false
+      },
+      {
+        "name": "dev resources",
+        "link": "/dev",
+        "external": false
+      }
+    ]
+  },
+  {
+    "name": "community",
+    "current": false,
+    "children": [
+      {
+        "name": "projects",
+        "link": "/projects",
+        "external": false
+      },
+      {
+        "name": "talent",
+        "link": "/talent",
+        "external": false
+      },
+      {
+        "name": "mfer playground - mfers & crezies",
+        "link": "https://thebadcc.github.io/mfer-builder/",
+        "external": true
+      },
+      {
+        "name": "mfer playground - mfers",
+        "link": "https://www.cerealbox.wtf/playground",
+        "external": true
+      }
+     ]
+  },
+  {
+    "name": "cereal box dao",
+    "current": false,
+    "children": [
+      {
+        "name": "about",
+        "link": "/dao-about",
+        "external": false
+      },
+      {
+        "name": "dao nft",
+        "link": "/dao-nftmintingapp",
+        "external": false
+      },
+      {
+        "name": "dao nft marketplace",
+        "link": "https://cerealboxdao.wlbl.xyz/",
+        "external": true
+      },
+      {
+        "name": "members",
+        "link": "/dao-members",
+        "external": false
+      },      
+      {
+        "name": "what we do",
+        "link": "/dao-whatwedo",
+        "external": false
+      },      
+      {
+        "name": "projects",
+        "link": "/dao-projects",
+        "external": false
+      },      
+      {
+        "name": "dao resources",
+        "link": "/dao-resources",
+        "external": false
+      },
+      {
+        "name": "podcast",
+        "link": "/dao-podcast",
+        "external": false
+      }
+    ]
+  }
+]

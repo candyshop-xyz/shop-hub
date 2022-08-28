@@ -1,0 +1,20 @@
+[
+  {
+    "name": "biz",
+    "twitter": "bizxyz",
+    "discord": "biz ⌐◨-◨#3815",
+    "discordId": "953361305551663165",
+    "title": ["founder"],
+    "image": "biz.png",
+    "skills": "governance, partnerships, memes"
+  },
+  {
+    "name": "zhoug",
+    "twitter": "zhoug0x",
+    "discord": "zhoug#7792",
+    "discordId": "439184602209320971",
+    "title": ["developer"],
+    "image": "zhoug.png",
+    "skills": "dev, nerd, buidling on web3"    
+  }
+]

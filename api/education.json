@@ -1,0 +1,26 @@
+[
+  {
+    "title": "bitcoin: a peer-to-peer electronic cash system",
+    "description": "the paper that first introduced bitcoin",
+    "creator": [],
+    "url": "https://bitcoin.org/en/bitcoin-paper",
+    "image": "bitcoin.png",
+    "category": ["cryptocurrency"]
+  },
+  {
+    "title": "6529 - freedom to transact",
+    "description": "punk 6529 argues that there are no other constitutional rights in substance without freedom to transact",
+    "creator": [],
+    "url": "https://twitter.com/punk6529/status/1494444624630403083?s=20&t=uZptXwsqBbMm1Nqr1qhpKg",
+    "image": "6529.png",
+    "category": ["freedom"]
+  },
+  {
+    "title": "6529 - on america and crypto",
+    "description": "punk 6529 argues that there is no more natural home for crypto than the united states of america",
+    "creator": [],
+    "url": "https://twitter.com/punk6529/status/1457278102405623811?s=20&t=uZptXwsqBbMm1Nqr1qhpKg",
+    "image": "6529.png",
+    "category": ["cryptocurrency"]
+  }
+]

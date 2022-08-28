@@ -1,0 +1,39 @@
+[
+  {
+    "name": "sartoshi bot",
+    "imageUrl": "sartoshi_bot.PNG",
+    "bio": "a twitter bot that replies to tweets containing the word mfer in english, chinese and spanish",
+    "url": "https://github.com/anonchickenlegs/sartoshi_bot",
+    "btnText": "view repo",
+    "notion": false,
+    "notionId": ""
+  },
+  {
+    "name": "mferBuilder",
+    "imageUrl": "playground.PNG",
+    "bio": "a working mfer playground to create your own mfer",
+    "url": "https://github.com/thebadcc-eth/mfer-builder",
+    "btnText": "view repo",
+    "notion": false,
+    "notionId": ""
+  },
+  {
+    "name": "mfers metadata",
+    "imageUrl": "mfersapi.PNG",
+    "bio": "quick and easy access to mfers metadata",
+    "url": "https://github.com/mfers-dev/mfers",
+    "btnText": "view repo",
+    "notion": false,
+    "notionId": ""
+  },
+  {
+    "name": "sartoshi script",
+    "imageUrl": "sartoshiscript.png",
+    "bio": "a cc0 typeface for mfers",
+    "url": "https://www.sartoshiscript.xyz/",
+    "btnText": "download font",
+    "notion": false,
+    "notionId": ""
+  }  
+
+]

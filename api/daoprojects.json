@@ -1,0 +1,29 @@
+[
+  {
+    "name": "funny jungleland",
+    "imageUrl": "FunnyJungleland.jpg",
+    "bio": "funny jungleland is a prediction market operated by cereal box dao",
+    "url": "https://www.cerealbox.wtf/funnyjungleland",
+    "btnText": "launch market",
+    "notion": false,
+    "notionId": ""
+  },
+  {
+    "name": "education",
+    "imageUrl": "library.jpg",
+    "bio": "a curated collection of educational resources on freedom, decentralization, governance, cryptocurrency, and nfts",
+    "url": "https://www.cerealbox.wtf/education",
+    "btnText": "access library",
+    "notion": false,
+    "notionId": ""
+  },
+  {
+    "name": "mfers next era",
+    "imageUrl": "mfersnextera.png",
+    "bio": "mfers next era is a membership dao that funds projects in china proliferating the mfers meme",
+    "url": "https://www.cerealbox.wtf/mfersnextera",
+    "btnText": "get involved",
+    "notion": false,
+    "notionId": ""
+  }
+]

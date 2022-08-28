@@ -1,0 +1,26 @@
+[
+  {
+    "fileId": "type-none",
+    "name": "none"
+  },
+  {
+    "fileId": "type-alienmfer",
+    "name": "alien-mfer"
+  },
+  {
+    "fileId": "type-apemfer",
+    "name": "ape-mfer"
+  },
+  {
+    "fileId": "type-charcoalmfer",
+    "name": "charcoal-mfer"
+  },
+  {
+    "fileId": "type-plainmfer",
+    "name": "plain-mfer"
+  },
+  {
+    "fileId": "type-zombiemfer",
+    "name": "zombie-mfer"
+  }
+]

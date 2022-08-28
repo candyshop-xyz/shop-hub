@@ -1,0 +1,479 @@
+{
+  "watch": [
+    {
+      "name": "argo black",
+      "image": "argoblack"
+    },
+    {
+      "name": "argo white",
+      "image": "argowhite"
+    },
+    {
+      "name": "oyster gold",
+      "image": "oystergold"
+    },
+    {
+      "name": "oyster silver",
+      "image": "oystersilver"
+    },
+    {
+      "name": "sub bat (blue black)",
+      "image": "subbat"
+    },
+    {
+      "name": "sub black",
+      "image": "subblack"
+    },
+    {
+      "name": "sub blue",
+      "image": "subblue"
+    },
+    {
+      "name": "sub cola (blue red)",
+      "image": "subcola"
+    },
+    {
+      "name": "sub lantern (green)",
+      "image": "sublantern"
+    },
+    {
+      "name": "sub red",
+      "image": "subred"
+    },
+    {
+      "name": "sub rose",
+      "image": "subrose"
+    },
+    {
+      "name": "sub turquoise",
+      "image": "subturquoise"
+    }
+  ],
+  "background": [
+    {
+      "name": "blue",
+      "image": "blue"
+    },
+    {
+      "name": "yellow",
+      "image": "yellow"
+    },
+    {
+      "name": "green",
+      "image": "green"
+    },
+    {
+      "name": "orange",
+      "image": "orange"
+    },
+    {
+      "name": "red",
+      "image": "red"
+    },
+    {
+      "name": "space",
+      "image": "space"
+    },
+    {
+      "name": "tree",
+      "image": "tree"
+    },
+    {
+      "name": "graveyard",
+      "image": "graveyard"
+    }
+  ],
+  "beard": [
+    {
+      "name": "full beard",
+      "image": "fullbeard"
+    },
+    {
+      "name": "shadow beard",
+      "image": "shadowbeard"
+    }
+  ],
+  "chain": [
+    {
+      "name": "gold chain",
+      "image": "goldchain"
+    },
+    {
+      "name": "silver chain",
+      "image": "silverchain"
+    }
+  ],
+  "eyes": [
+    {
+      "name": "3D glasses",
+      "image": "3dglasses"
+    },
+    {
+      "name": "alien eyes",
+      "image": "alieneyes"
+    },
+    {
+      "name": "eye mask",
+      "image": "eyemask"
+    },
+    {
+      "name": "eye patch",
+      "image": "eyepatch"
+    },
+    {
+      "name": "nerd glasses",
+      "image": "nerdglasses"
+    },
+    {
+      "name": "purple shades",
+      "image": "purpleshades"
+    },
+    {
+      "name": "regular eyes",
+      "image": "regulareyes"
+    },
+    {
+      "name": "shades",
+      "image": "shades"
+    },
+    {
+      "name": "vr",
+      "image": "vr"
+    },
+    {
+      "name": "zombie eyes",
+      "image": "zombieeyes"
+    }
+  ],
+  "hatoverheadphones": [
+    {
+      "name": "cowboy hat",
+      "image": "cowboyhat"
+    },
+    {
+      "name": "hoodie black",
+      "image": "hoodieblack"
+    },
+    {
+      "name": "hoodie green",
+      "image": "hoodiegreen"
+    },
+    {
+      "name": "hoodie orange",
+      "image": "hoodieorange"
+    },
+    {
+      "name": "hoodie pink",
+      "image": "hoodiepink"
+    },
+    {
+      "name": "hoodie purple",
+      "image": "hoodiepurple"
+    },
+    {
+      "name": "hoodie red",
+      "image": "hoodiered"
+    },
+    {
+      "name": "hoodie",
+      "image": "hoodie"
+    },
+    {
+      "name": "pilot helmet",
+      "image": "pilothelmet"
+    },
+    {
+      "name": "top hat",
+      "image": "tophat"
+    }
+  ],
+  "hatunderheadphones": [
+    {
+      "name": "bandana blue",
+      "image": "bandanablue"
+    },
+    {
+      "name": "bandana dark gray",
+      "image": "bandanadarkgray"
+    },
+    {
+      "name": "bandana red",
+      "image": "bandanared"
+    },
+    {
+      "name": "beanie monochrome",
+      "image": "beaniemonochrome"
+    },
+    {
+      "name": "beanie",
+      "image": "beanie"
+    },
+    {
+      "name": "cap monochrome",
+      "image": "capmonochrome"
+    },
+    {
+      "name": "cap purple",
+      "image": "cappurple"
+    },
+    {
+      "name": "headband blue green",
+      "image": "headbandbluegreen"
+    },
+    {
+      "name": "headband blue red",
+      "image": "headbandbluered"
+    },
+    {
+      "name": "headband blue white",
+      "image": "headbandbluewhite"
+    },
+    {
+      "name": "headband green white",
+      "image": "headbandgreenwhite"
+    },
+    {
+      "name": "headband pink white",
+      "image": "headbandpinkwhite"
+    },
+    {
+      "name": "knit atlanta",
+      "image": "knitatlanta"
+    },
+    {
+      "name": "knit baltimore",
+      "image": "knitbaltimore"
+    },
+    {
+      "name": "knit buffalo",
+      "image": "knitbuffalo"
+    },
+    {
+      "name": "knit chicago",
+      "image": "knitchicago"
+    },
+    {
+      "name": "knit cleveland",
+      "image": "knitcleveland"
+    },
+    {
+      "name": "knit dallas",
+      "image": "knitdallas"
+    },
+    {
+      "name": "knit kc",
+      "image": "knitkc"
+    },
+    {
+      "name": "knit las vegas",
+      "image": "knitlasvegas"
+    },
+    {
+      "name": "knit miami",
+      "image": "knitmiami"
+    },
+    {
+      "name": "knit new york",
+      "image": "knitnewyork"
+    },
+    {
+      "name": "knit pittsburgh",
+      "image": "knitpittsburgh"
+    },
+    {
+      "name": "knit san fran",
+      "image": "knitsanfran"
+    }
+  ],
+  "headphones": [
+    {
+      "name": "RCS headphones",
+      "image": "rcsheadphones"
+    },
+    {
+      "name": "black headphones",
+      "image": "blackheadphones"
+    },
+    {
+      "name": "blue headphones",
+      "image": "blueheadphones"
+    },
+    {
+      "name": "gold headphones",
+      "image": "goldheadphones"
+    },
+    {
+      "name": "green headphones",
+      "image": "greenheadphones"
+    },
+    {
+      "name": "lined headphones",
+      "image": "linedheadphones"
+    },
+    {
+      "name": "pink headphones",
+      "image": "pinkheadphones"
+    },
+    {
+      "name": "red headphones",
+      "image": "redheadphones"
+    },
+    {
+      "name": "white headphones",
+      "image": "whiteheadphones"
+    }
+  ],
+  "longhair": [
+    {
+      "name": "long hair black",
+      "image": "longhairblack"
+    },
+    {
+      "name": "long hair yellow",
+      "image": "longhairyellow"
+    }
+  ],
+  "mouth": [
+    {
+      "name": "flat",
+      "image": "flat"
+    },
+    {
+      "name": "smile",
+      "image": "smile"
+    }
+  ],
+  "shirt": [
+    {
+      "name": "collared shirt blue",
+      "image": "collaredshirtblue"
+    },
+    {
+      "name": "collared shirt green",
+      "image": "collaredshirtgreen"
+    },
+    {
+      "name": "collared shirt pink",
+      "image": "collaredshirtpink"
+    },
+    {
+      "name": "collared shirt turquoise",
+      "image": "collaredshirtturquoise"
+    },
+    {
+      "name": "collared shirt white",
+      "image": "collaredshirtwhite"
+    },
+    {
+      "name": "collared shirt yellow",
+      "image": "collaredshirtyellow"
+    },
+    {
+      "name": "hoodie down blue",
+      "image": "hoodiedownblue"
+    },
+    {
+      "name": "hoodie down gray",
+      "image": "hoodiedowngray"
+    },
+    {
+      "name": "hoodie down green",
+      "image": "hoodiedowngreen"
+    },
+    {
+      "name": "hoodie down pink",
+      "image": "hoodiedownpink"
+    },
+    {
+      "name": "hoodie down red",
+      "image": "hoodiedownred"
+    },
+    {
+      "name": "hoodie down white",
+      "image": "hoodiedownwhite"
+    }
+  ],
+  "shorthair": [
+    {
+      "name": "messy black",
+      "image": "messyblack"
+    },
+    {
+      "name": "messy purple",
+      "image": "messypurple"
+    },
+    {
+      "name": "messy red",
+      "image": "messyred"
+    },
+    {
+      "name": "messy yellow",
+      "image": "messyyellow"
+    },
+    {
+      "name": "mohawk black",
+      "image": "mohawkblack"
+    },
+    {
+      "name": "mohawk blue",
+      "image": "mohawkblue"
+    },
+    {
+      "name": "mohawk green",
+      "image": "mohawkgreen"
+    },
+    {
+      "name": "mohawk pink",
+      "image": "mohawkpink"
+    },
+    {
+      "name": "mohawk purple",
+      "image": "mohawkpurple"
+    },
+    {
+      "name": "mohawk red",
+      "image": "mohawkred"
+    },
+    {
+      "name": "mohawk yellow",
+      "image": "mohawkyellow"
+    }
+  ],
+  "smoke": [
+    {
+      "name": "cig black",
+      "image": "cigblack"
+    },
+    {
+      "name": "cig white",
+      "image": "cigwhite"
+    },
+    {
+      "name": "pipe",
+      "image": "pipe"
+    }
+  ],
+  "type": [
+    {
+      "name": "plain mfer",
+      "image": "plainmfer"
+    },
+    {
+      "name": "charcoal mfer",
+      "image": "charcoalmfer"
+    },
+    {
+      "name": "zombie mfer",
+      "image": "zombiemfer"
+    },
+    {
+      "name": "ape mfer",
+      "image": "apemfer"
+    },
+    {
+      "name": "alien mfer",
+      "image": "alienmfer"
+    }    
+  ]
+  
+}

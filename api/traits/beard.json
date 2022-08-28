@@ -1,0 +1,14 @@
+[
+  {
+    "fileId": "beard-none",
+    "name": "none"
+  },
+  {
+    "fileId": "beard-fullbeard",
+    "name": "full-beard"
+  },
+  {
+    "fileId": "beard-shadowbeard",
+    "name": "shadow-beard"
+  }
+]

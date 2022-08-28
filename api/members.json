@@ -1,0 +1,65 @@
+[
+  {
+    "name": "biz",
+    "twitter": "bizxyz",
+    "discord": "biz ⌐◨-◨#3815",
+    "discordId": "953361305551663165",
+    "title": ["founder"],
+    "image": "biz.png",
+    "skills": "governance, partnerships, memes"
+  },
+  {
+    "name": "BoomSneaks",
+    "twitter": "SneaksIncoming",
+    "discord": "BoomSneaks#6798",
+    "discordId": "308395564733825045",
+    "title": ["member"],
+    "image": "boomsneaks.png",
+    "skills": "connecting people to the sneakers and streetwear they want one day at a time"
+  },
+  {
+    "name": "dirk07",
+    "twitter": "dirk_crypto",
+    "discord": "DirkKuyt#1086",
+    "discordId": "351753446065700875",
+    "title": ["member"],
+    "image": "dirk07.png",
+    "skills": "m̵f̵e̵r̵ ̵o̵n̵ ̵a̵ ̵m̵i̵s̵s̵i̵o̵n̵ | mission accomplished just vibin for now"
+  },
+  {
+    "name": "Netspawnᵐᶠᵉʳ",
+    "twitter": "net_spawn",
+    "discord": "Netspawn#0420",
+    "discordId": "918606525554110526",
+    "title": ["member"],
+    "image": "netspawn.png",
+    "skills": "making premium cannabis products at clearly california"
+  },
+  {
+    "name": "RyanMac",
+    "twitter": "Ry_Mac21",
+    "discord": "RyanMac ⌐◨-◨#7895",
+    "discordId": "930985786449481858",
+    "title": ["member"],
+    "image": "ryanmac.png",
+    "skills": "bringing the rawr to web3 via tiny dinos, rawrdao, nouncil, dinynouns, and pixel peeps"
+  },
+  {
+    "name": "Satori",
+    "twitter": "0xSatori",
+    "discord": "Satori#1337",
+    "discordId": "324687468433637376",
+    "title": ["member"],
+    "image": "0xsatori.png",
+    "skills": "making magic at wizards dao"
+  },
+  {
+    "name": "wiz",
+    "twitter": "wiznav",
+    "discord": "wiznav#1617",
+    "discordId": "332717877398470656",
+    "title": ["member"],
+    "image": "wiznav.png",
+    "skills": "making magic at wizards dao"
+  }
+]

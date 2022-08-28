@@ -1,0 +1,38 @@
+[
+  {
+    "fileId": "background-none",
+    "name": "none"
+  },
+  {
+    "fileId": "background-blue",
+    "name": "blue"
+  },
+  {
+    "fileId": "background-yellow",
+    "name": "yellow"
+  },
+  {
+    "fileId": "background-green",
+    "name": "green"
+  },
+  {
+    "fileId": "background-orange",
+    "name": "orange"
+  },
+  {
+    "fileId": "background-red",
+    "name": "red"
+  },
+  {
+    "fileId": "background-tree",
+    "name": "tree"
+  },
+  {
+    "fileId": "background-graveyard",
+    "name": "graveyard"
+  },
+  {
+    "fileId": "background-space",
+    "name": "space"
+  }
+]

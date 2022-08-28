@@ -1,0 +1,42 @@
+[
+  {
+    "fileId": "headphones-none",
+    "name": "none"
+  },
+  {
+    "fileId": "headphones-blackheadphones",
+    "name": "black-headphones"
+  },
+  {
+    "fileId": "headphones-blueheadphones",
+    "name": "blue-headphones"
+  },
+  {
+    "fileId": "headphones-goldheadphones",
+    "name": "gold-headphones"
+  },
+  {
+    "fileId": "headphones-greenheadphones",
+    "name": "green-headphones"
+  },
+  {
+    "fileId": "headphones-linedheadphones",
+    "name": "lined-headphones"
+  },
+  {
+    "fileId": "headphones-pinkheadphones",
+    "name": "pink-headphones"
+  },
+  {
+    "fileId": "headphones-rcsheadphones",
+    "name": "rcs-headphones"
+  },
+  {
+    "fileId": "headphones-redheadphones",
+    "name": "red-headphones"
+  },
+  {
+    "fileId": "headphones-whiteheadphones",
+    "name": "white-headphones"
+  }
+]

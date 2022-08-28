@@ -1,0 +1,18 @@
+[
+  {
+    "fileId": "smoke-none",
+    "name": "cig-none"
+  },
+  {
+    "fileId": "smoke-cigblack",
+    "name": "cig-black"
+  },
+  {
+    "fileId": "smoke-cigwhite",
+    "name": "cig-white"
+  },
+  {
+    "fileId": "smoke-pipe",
+    "name": "pipe"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "title": "mfers",
+    "description": "mfers are generated entirely from hand drawings by sartoshi. this project is in the public domain; feel free to use mfers any way you want.",
+    "creator": [],
+    "url": "https://mfers.cool/explore/ETHEREUM:0x79fcdef22feed20eddacbb2587640e45491b757f",
+    "image": "mfers.png",
+    "category": ["nfts"]
+  },
+  {
+    "title": "CREYZIES",
+    "description": "CREYZIES are generated entirely from hand drawings by Reylarsdam. They are the official companion collection to mfers. This project is in the public domain; feel free to use CREYZIES any way you want.",
+    "creator": [],
+    "url": "https://mfers.cool/explore/ETHEREUM:0x19bb64b80cbf61e61965b0e5c2560cc7364c6546",
+    "image": "creyzies.jpg",
+    "category": ["nfts"]
+  },
+  {
+    "title": "end of sartoshi",
+    "description": "sartoshi’s last artwork",
+    "creator": [],
+    "url": "https://mfers.cool/explore/ETHEREUM:0xf7d134224a66c6a4ddeb7dee714a280b99044805",
+    "image": "eos.jfif",
+    "category": ["nfts"]
+  },
+  {
+    "title": "mfers next era",
+    "description": "mfers next era is a membership dao that funds projects in china proliferating the mfers meme",
+    "creator": [],
+    "url": "https://x2y2.io/collection/mfersnextera/items",
+    "image": "mfersnextera.png",
+    "category": ["nfts"]
+  },
+  {
+    "title": "mfers ahead",
+    "description": "a small collection of 420 forward-looking mfers. handdrawn by @metabananas. derivative inspired by sartoshi and the mfers community.",
+    "creator": [],
+    "url": "https://opensea.io/collection/mfersahead",
+    "image": "mfersahead.jpg",
+    "category": ["nfts"]
+  },
+  {
+    "title": "mfers dashboard",
+    "description": "dune analytics dashboard by @breezy44",
+    "creator": [],
+    "url": "https://dune.com/breezy44/mfers-info",
+    "image": "dune.png",
+    "category": ["stats"]
+  },
+    {
+    "title": "about mfers",
+    "description": "the story of mfers • rarity guides • community contributions",
+    "creator": [],
+    "url": "http://aboutmfers.com/",
+    "image": "aboutmfers.PNG",
+    "category": ["misc"]
+  },  
+  {
+    "title": "somfers",
+    "description": "10021 somfers by some mfers",
+    "creator": [],
+    "url": "https://somfers.art/",
+    "image": "somfers.png",
+    "category": ["nfts"]
+  },  
+  {
+    "title": "mfer x wavelength",
+    "description": "collaborative pieces by kaleb and sartoshi inspired by their projects, wavelength and mfers",
+    "creator": [],
+    "url": "https://opensea.io/collection/wavelengthxmfers",
+    "image": "wavelength.jpg",
+    "category": ["nfts"]
+  },
+  {
+    "title": "the mfer times",
+    "description": "substack newsletter on all things mfers by kml",
+    "creator": [],
+    "url": "https://mfers.substack.com/",
+    "image": "mfertimes.PNG",
+    "category": ["misc"]
+  },
+    {
+    "title": "mfers doin stuff - standing",
+    "description": "Posture is everything. Mfers traditionally do what they do best, sitting down being absolutely great. But sometimes even mfers need to stand up and acutally do stuff.",
+    "creator": [],
+    "url": "https://opensea.io/collection/mfers-doin-stuff-standing",
+    "image": "mfds.png",
+    "category": ["nfts"]
+  }
+
+]
