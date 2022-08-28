@@ -643,3 +643,11 @@ canvas {
     text-shadow: 1px 1px black;
     color: white;
 }
+
+.description {
+  
+}
+
+.tiles {
+   border: solid 4px #9dfffe;
+}
