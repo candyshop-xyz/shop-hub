@@ -12,7 +12,7 @@ const Footer = () => {
           constantly creating in the creative commons
         </p>
         <p>
-          -theCandyShop
+          theCandyShop
         </p>
       )}
 
