@@ -42,24 +42,9 @@
     "current": false,
     "children": [
       {
-        "name": "projects",
-        "link": "/projects",
-        "external": false
-      },
-      {
         "name": "talent",
         "link": "/talent",
         "external": false
-      },
-      {
-        "name": "mfer playground - mfers & crezies",
-        "link": "https://thebadcc.github.io/mfer-builder/",
-        "external": true
-      },
-      {
-        "name": "mfer playground - mfers",
-        "link": "https://www.cerealbox.wtf/playground",
-        "external": true
       }
      ]
   },
