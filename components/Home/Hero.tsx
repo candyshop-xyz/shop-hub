@@ -68,6 +68,14 @@ const Hero = () => {
                   path="dao-about"
                   color="bg-blue-base"
                 />
+                <NounishButton
+                  text="smowl"
+                  image="smowl.png"
+                  buttonId={"five"}
+                  buttonAction={action}
+                  path="projects"
+                  color="bg-blue-base"
+                />
               </div>
             </div>
           </main>
