@@ -22,10 +22,6 @@ const Talent = () => {
         <Title title="Team" />
 
         <Subheader body="" />
-        <Button
-          text="add yourself"
-          link="https://www.addressform.io/form/15d90c46-12a1-47bb-99aa-cda11a4b0403"
-        />
       </PageHeader>
 
       <PageContent>
