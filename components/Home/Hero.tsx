@@ -31,9 +31,11 @@ const Hero = () => {
           <main className="mx-auto sm:px-4 tracking-wider text-black ">
             <div className="text-center flex flex-col justify-between h-full xs:px-6 sm:px-0">
           <h1 className="title font-extrabold text-7xl md:text-8xl mferFont tracking-wider flex gap-4 justify-center">
-                The Candy Shop
+              🍭
+              <br>  
+              The Candy Shop
               </h1>
-          <h4 className="mferFont title">... taste the commons</h4>
+          <h4></h4>
             
               <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:mt-8 lg:grid-cols-3 grid-rows-2">
                 <NounishButton
