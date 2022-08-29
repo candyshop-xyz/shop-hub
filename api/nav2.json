@@ -15,6 +15,53 @@
         "external": false
       }
     ]
+  },  
+  {
+    "name": "Learn",
+    "defaultOpen": true,
+    "current": false,
+    "children": [
+      {
+        "name": "Mfers",
+        "link": "/intro",
+        "external": false
+      },
+      {
+        "name": "Nouns",
+        "link": "/history",
+        "external": false
+      },
+      {
+        "name": "Tiny Dinos",
+        "link": "/history",
+        "external": false
+      },
+      {
+        "name": "Rekt Guy",
+        "link": "/history",
+        "external": false
+      },
+      {
+        "name": "Smowls",
+        "link": "/history",
+        "external": false
+      },
+      {
+        "name": "Cryptoadz",
+        "link": "/history",
+        "external": false
+      },
+      {
+        "name": "CryptoDickbutts",
+        "link": "/history",
+        "external": false
+      },
+      {
+        "name": "Moonbirds",
+        "link": "/history",
+        "external": false
+      }
+    ]
   },
   {
     "name": "Shop",
