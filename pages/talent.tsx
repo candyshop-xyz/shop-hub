@@ -18,10 +18,10 @@ const Talent = () => {
   return (
     <>
       <PageHeader>
-        <Header title="talent | mfers hub" />
-        <Title title="talent" />
+        <Header title="Team | Candy Shop" />
+        <Title title="Team" />
 
-        <Subheader body="a place to connect with community members. you can view someone's skillset and easily connect with them. if you'd like to be added to this list, or are on it and would like to be removed, click the button to send a request." />
+        <Subheader body="" />
         <Button
           text="add yourself"
           link="https://www.addressform.io/form/15d90c46-12a1-47bb-99aa-cda11a4b0403"
