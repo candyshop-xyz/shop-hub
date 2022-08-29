@@ -37,7 +37,7 @@ const Hero = () => {
               </h1>
           <h4></h4>
             
-              <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:mt-8 lg:grid-cols-3 grid-rows-2">
+              <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:grid-cols-3 grid-rows-2 lg:grid-cols-4 grid-rows-2">
                 <NounishButton
                   text="mfers"
                   image="mfer.png"
