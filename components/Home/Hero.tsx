@@ -102,7 +102,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="xcopy"
-                  image="xcopy.png"
+                  image="xcopy.gif"
                   buttonId={"six"}
                   buttonAction={action}
                   path="projects"
