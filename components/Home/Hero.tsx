@@ -32,7 +32,7 @@ const Hero = () => {
             <div className="text-center flex flex-col justify-between h-full xs:px-6 sm:px-0">
           <h1 className="title font-extrabold text-7xl md:text-8xl mferFont tracking-wider flex gap-4 justify-center">
               🍭
-              <br>  
+            <br></br>  
               The Candy Shop
               </h1>
           <h4></h4>
