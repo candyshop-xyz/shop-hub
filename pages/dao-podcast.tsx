@@ -16,11 +16,11 @@ const Podcast = () => {
   return (
     <>
       <PageHeader>
-        <Header title="Sweet Times" />
-        <Title title="by The Candy Shop" />
+        <Header title="Sweet Times | Candy Shop" />
+        <Title title="Sweet Times" />
 
         <Subheader
-          title="Podcast"
+          title="by The Candy Shop"
           body=""
         />
         <Button
