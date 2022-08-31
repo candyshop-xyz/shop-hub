@@ -19,7 +19,7 @@ const Nav = ({ setSidebarOpen }) => {
           onClick={() => setSidebarOpen(false)}
         >
           <Link passHref href="/">
-            <img className="hidden w-1/6 mr-2" src="earth.png" alt="earth" />
+            <img className="hidden w-1/6 mr-2" src="logo.png" alt="The Candy Shop" />
           </Link>
         </div>
       </Link>
