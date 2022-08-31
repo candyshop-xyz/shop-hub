@@ -34,8 +34,8 @@ const Nav = ({ setSidebarOpen }) => {
             <Link passHref href="/">
               <img
                 onClick={() => setSidebarOpen(false)}
-                src="/earth.png"
-                alt="earth"
+                src="/logo.png"
+                alt="Candy Shop"
                 className="h-12 w-12 ml-1.5 flex cursor-pointer self-center mb-8"
               />
             </Link>
