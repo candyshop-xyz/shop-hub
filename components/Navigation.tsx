@@ -95,8 +95,8 @@ const Navigation = () => {
             <div className="flex self-center  items-center cursor-pointer text-nouns  transition text-blue-base hover:text-nouns-bg-blue  dark:hover:text-blue-base xs:text-xl sm:text-3xl gap-2">
                eslint-disable-next-line @next/next/no-img-element 
               <img
-                src="/earth.gif"
-                alt="earth"
+                src="/logo.gif"
+                alt="Candy Shop"
                 className="h-12 w-12 flex self-center"
               />
             </div>
