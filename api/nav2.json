@@ -5,12 +5,12 @@
     "current": false,
     "children": [
       {
-        "name": "Sweet Times",
+        "name": "Spikes",
         "link": "/intro",
         "external": false
       },
       {
-        "name": "Playground",
+        "name": "The Great Noun Battle",
         "link": "/history",
         "external": false
       }
