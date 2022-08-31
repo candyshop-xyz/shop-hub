@@ -21,7 +21,7 @@ const Talent = () => {
         <Header title="Team | Candy Shop" />
         <Title title="Team" />
 
-        <Subheader body="The mission of The Candy Shop is to entertain, inform and inspire people through the power of unparalleled storytelling, reflecting the iconic brands, creative minds and innovative technologies of the creative commons." />
+        <Subheader body="Our mission is to entertain, inform and inspire people through the power of unparalleled storytelling, reflecting the iconic brands, creative minds and innovative technologies of the creative commons." />
       </PageHeader>
 
       <PageContent>
