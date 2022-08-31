@@ -9,7 +9,7 @@ const PageContent = ({ children }) => {
   const { asPath } = router;
 
   return (
-    <div className="xs:px-8 xs:py-6 md:px-4 lg:px-0 sm:py-12 sm:max-w-3xl m-auto bg-grey-lightest">
+    <div className="xs:px-8 xs:py-6 md:px-4 lg:px-0 sm:py-12 sm:max-w-3xl m-auto">
       {children}
 
       {asPath !== "/" && (
