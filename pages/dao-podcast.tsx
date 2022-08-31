@@ -16,12 +16,12 @@ const Podcast = () => {
   return (
     <>
       <PageHeader>
-        <Header title="podcast | cereal box dao" />
-        <Title title="cereal box dao" />
+        <Header title="Sweet Times" />
+        <Title title="by The Candy Shop" />
 
         <Subheader
-          title="podcast"
-          body="a walk down the cereal aisle brings you the latest from cereal box dao and interesting happenings around the world"
+          title="Podcast"
+          body=""
         />
         <Button
           link="https://anchor.fm/cerealboxdao"
