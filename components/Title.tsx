@@ -5,7 +5,7 @@ interface TitleProps {
 }
 
 const Title = ({ title }: TitleProps) => {
-  return <div className="font-extrabold text-5xl mferFont pb-6 tracking-wide">{title}</div>;
+  return <div className="title font-extrabold text-5xl mferFont pb-6 tracking-wide">{title}</div>;
 };
 
 export default Title;
