@@ -34,10 +34,12 @@ const Hero = () => {
               mfer playground
               </h1>
           <h4>the unofficial builders of mfers, creyzies & more</h4>
-
+ <h1 className="title font-extrabold text-7xl md:text-8xl mferFont tracking-wider flex gap-4 justify-center">
+              @~
+              </h1>
              
               <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:grid-cols-3 grid-rows-2 lg:grid-cols-4 grid-rows-2">
-                <p></p>
+
 
                 <NounishButton
                   text="mfers"
