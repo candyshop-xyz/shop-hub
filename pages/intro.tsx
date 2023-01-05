@@ -28,7 +28,34 @@ const Intro = () => {
       </PageHeader>
 
       <PageContent>
-          
+                  <div>
+          <div className="relative bg-[#EBEBEB] rounded-xl">
+            <div className="bg-[#3467EB] md:absolute md:left-0 md:h-full md:w-1/2 sm:flex sm:items-center rounded-l-xl">
+              <img
+                src="intro.jpeg"
+                className="fit-content"
+                alt="timeline"
+              />
+            </div>
+
+            <div className="relative max-w-7xl mx-auto px-4 py-12 sm:px-6 lg:px-8 lg:py-6">
+              <div className="md:ml-auto md:w-1/2 md:pl-10">
+                <p className="mt-2 text-black text-5xl font-extrabold mferFont tracking-wider sm:text-4xl">
+                  what are mfers
+                </p>
+                <p className="mt-3 text-lg text-gray-500">
+                  by sartoshi
+                </p>
+
+                <div className="mt-8 flex gap-4">
+                  <Button
+                    text={"Read on Mirror"}
+                    link="https://mirror.xyz/sartoshi.eth/QukjtL1076-1SEoNJuqyc-x4Ut2v8_TocKkszo-S_nU"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
           <TextContent title="lots of mfers been asking ‘what are mfers’ so here’s the backstory">
             <p>
               the origin traces to my entry to the world of nfts
