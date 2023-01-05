@@ -639,8 +639,7 @@ canvas {
 
 
 .title {
-    text-shadow: 1px 1px black;
-    color: white;
+    color: black
 }
 
 .description {
