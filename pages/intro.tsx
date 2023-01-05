@@ -19,9 +19,8 @@ const Intro = () => {
   return (
     <>
       <PageHeader>
-        <Header title="what are mfers | mfers hub" />
+        <Header title="what are mfers | mfers playground" />
         <Title title="what are mfers" />
-
         <Subheader
           title=""
           body="reproduced from what are mfers by sartoshi originally published on february 12, 2022"
@@ -42,16 +41,16 @@ const Intro = () => {
             <div className="relative max-w-7xl mx-auto px-4 py-12 sm:px-6 lg:px-8 lg:py-6">
               <div className="md:ml-auto md:w-1/2 md:pl-10">
                 <p className="mt-2 text-black text-5xl font-extrabold mferFont tracking-wider sm:text-4xl">
-                  join the conversation
+                  what are mfers
                 </p>
                 <p className="mt-3 text-lg text-gray-500">
-                  what does being a mfer mean to you?  click the button below to tell your story
+                  by sartoshi
                 </p>
 
                 <div className="mt-8 flex gap-4">
                   <Button
-                    text={"post your story"}
-                    link="https://www.addressform.io/form/9a3acc00-0ab0-4db7-8f73-45e3bfcfacf9"
+                    text={"Read on Mirror"}
+                    link="https://mirror.xyz/sartoshi.eth/QukjtL1076-1SEoNJuqyc-x4Ut2v8_TocKkszo-S_nU"
                   />
                 </div>
               </div>
