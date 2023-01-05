@@ -37,7 +37,7 @@ const Hero = () => {
 
              
               <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:grid-cols-3 grid-rows-2 lg:grid-cols-4 grid-rows-2">
-                <p>{@~}</p>
+                <p></p>
 
                 <NounishButton
                   text="mfers"
