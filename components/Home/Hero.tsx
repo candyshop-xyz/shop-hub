@@ -31,7 +31,7 @@ const Hero = () => {
           <main className="mx-auto sm:px-4 tracking-wider text-black ">
             <div className="text-center flex flex-col justify-between h-full xs:px-6 sm:px-0">
           <h1 className="title font-extrabold text-7xl md:text-8xl mferFont tracking-wider flex gap-4 justify-center">
-              Candy Shop
+              mfer playground
               </h1>
           <h4>the unofficial builders of mfers, creyzies & more</h4>
             
