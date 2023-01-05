@@ -1,57 +1,41 @@
 [
   {
-    "name": "Stories",
+    "name": "products",
     "defaultOpen": true,
     "current": false,
     "children": [
       {
-        "name": "Spikeless",
+        "name": "mfer playground",
+        "link": "/playground",
+        "external": false
+      },
+      {
+        "name": "meme generator",
         "link": "/intro",
         "external": false
       }
     ]
   },
   {
-    "name": "Marketplaces",
+    "name": "about",
     "current": false,
     "children": [
       {
-        "name": "Opensea",
+        "name": "what are mfers",
         "link": "/traits",
         "external": false
       },
       {
-        "name": "Looks Rare",
+        "name": "mission",
         "link": "/assets",
         "external": false
       },
       {
-        "name": "Rarible",
-        "link": "/dev",
-        "external": false
-      },
-      {
-        "name": "X2Y2",
-        "link": "/dev",
-        "external": false
-      },
-      {
-        "name": "Gem",
-        "link": "/dev",
+        "name": "contributors",
+        "link": "/assets",
         "external": false
       }
     ]
-  },
-  {
-    "name": "About",
-    "current": false,
-    "children": [
-      {
-        "name": "Team",
-        "link": "/talent",
-        "external": false
-      }
-     ]
   },
   {
     "name": "DAO",
