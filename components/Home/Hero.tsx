@@ -35,9 +35,10 @@ const Hero = () => {
               </h1>
           <h4>the unofficial builders of mfers, creyzies & more</h4>
 
-              <h1>{@~}</h1>
-
+             
               <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:grid-cols-3 grid-rows-2 lg:grid-cols-4 grid-rows-2">
+                <h1>{@~}</h1>
+
                 <NounishButton
                   text="mfers"
                   image="mfer.png"
