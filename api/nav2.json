@@ -1,16 +1,16 @@
 [
   {
-    "name": "products",
+    "name": "playground",
     "defaultOpen": true,
     "current": false,
     "children": [
       {
-        "name": "mfer playground",
+        "name": "pfps",
         "link": "/playground",
         "external": false
       },
       {
-        "name": "meme generator",
+        "name": "memes",
         "link": "/intro",
         "external": false
       }
@@ -21,12 +21,12 @@
     "current": false,
     "children": [
       {
-        "name": "what are mfers",
+        "name": "what are mfers?",
         "link": "/traits",
         "external": false
       },
       {
-        "name": "mission",
+        "name": "our mission",
         "link": "/assets",
         "external": false
       },
@@ -38,7 +38,7 @@
     ]
   },
   {
-    "name": "DAO",
+    "name": "dao",
     "current": false,
     "children": [
       {
