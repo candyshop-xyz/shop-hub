@@ -15,7 +15,7 @@ const Custom404 = () => {
       </PageHeader>
 
       <PageContent>
-        <img className="border-2 mt-3 rounded-xl p-2 bg-white shadow-md" src="404.png" alt="error" />
+        <img className="" src="404.png" alt="error" />
       </PageContent>
     </>
   );
