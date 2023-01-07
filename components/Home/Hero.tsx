@@ -39,23 +39,23 @@ const Hero = () => {
 
                 <NounishButton
                   text="mfers"
-                  image="mfer.png"
+                  image="mferHome.png"
                   buttonId={"one"}
                   buttonAction={action}
                   path="intro"
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="shop"
-                  image="nouns.png"
+                  text="creyzies"
+                  image="creyziesHome.png"
                   buttonId={"two"}
                   buttonAction={action}
                   path="traits"
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="tinyDino"
-                  image="tinyDino.png"
+                  text="mfers ahead"
+                  image="mferaheadHome.png"
                   buttonId={"three"}
                   buttonAction={action}
                   path="projects"
@@ -63,7 +63,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="rektGuy"
-                  image="rektGuy.png"
+                  image="mferbehindHome.png"
                   buttonId={"four"}
                   buttonAction={action}
                   path="dao-about"
@@ -71,7 +71,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="smowl"
-                  image="smowl.png"
+                  image="sketchymferHome.png"
                   buttonId={"five"}
                   buttonAction={action}
                   path="projects"
@@ -79,28 +79,13 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="cryptoads"
-                  image="cryptoad.png"
+                  image="somfersHome.png"
                   buttonId={"six"}
                   buttonAction={action}
                   path="projects"
                   color="bg-blue-base"
                 />
-                <NounishButton
-                  text="cryptodickbutts"
-                  image="cryptodickbutts.png"
-                  buttonId={"six"}
-                  buttonAction={action}
-                  path="projects"
-                  color="bg-blue-base"
-                />
-                <NounishButton
-                  text="moonbirds"
-                  image="moonbirds.png"
-                  buttonId={"six"}
-                  buttonAction={action}
-                  path="projects"
-                  color="bg-blue-base"
-                />
+                
               </div>
             </div>
           </main>
