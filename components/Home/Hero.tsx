@@ -55,7 +55,7 @@ const Hero = () => {
                 />
                 <NounishButton
                   text="mfers ahead"
-                  image="mferaheadHome.png"
+                  image="eosHome.png"
                   buttonId={"three"}
                   buttonAction={action}
                   path="projects"
@@ -85,7 +85,14 @@ const Hero = () => {
                   path="projects"
                   color="bg-blue-base"
                 />
-                
+                <NounishButton
+                  text="cryptoads"
+                  image="mferaheadHome.png"
+                  buttonId={"six"}
+                  buttonAction={action}
+                  path="projects"
+                  color="bg-blue-base"
+                />
               </div>
             </div>
           </main>
