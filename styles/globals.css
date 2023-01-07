@@ -669,5 +669,5 @@ canvas {
 
 .tiles {
    border: solid 2px darkgray;
-   background: none;
+   background: none !important;
 }
