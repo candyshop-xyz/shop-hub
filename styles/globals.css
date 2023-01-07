@@ -667,10 +667,7 @@ canvas {
     color: black
 }
 
-.description {
-  
-}
-
 .tiles {
-   border: solid 4px #9dfffe;
+   border: solid 2px darkgray;
+   background: none;
 }
