@@ -37,7 +37,13 @@ const Hero = () => {
 
               <div className="mt-5 sm:mx-auto grid grid-cols-2 grid-rows-2 xs:gap-3 sm:gap-8 sm:justify-center md:grid-cols-3 grid-rows-2 lg:grid-cols-4 grid-rows-2">
 
-
+            <div className="bg-[#3467EB] md:absolute md:left-0 md:h-full md:w-1/2 sm:flex sm:items-center rounded-l-xl">
+              <img
+                src="homeLogo.png"
+                className="fit-content"
+                alt="timeline"
+              />
+            </div>
                 <NounishButton
                   text="mfers"
                   image="mfer.png"
