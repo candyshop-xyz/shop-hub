@@ -38,6 +38,47 @@
     ]
   },
   {
+    "name": "collections",
+    "current": false,
+    "children": [
+      {
+        "name": "mfers",
+        "link": "/traits",
+        "external": false
+      },
+      {
+        "name": "creyzies",
+        "link": "/assets",
+        "external": false
+      },
+      {
+        "name": "end of sartoshi",
+        "link": "/assets",
+        "external": false
+      },
+      {
+        "name": "mfers ahead",
+        "link": "/assets",
+        "external": false
+      },
+      {
+        "name": "mfers behind",
+        "link": "/assets",
+        "external": false
+      },
+      {
+        "name": "sketchy mfers",
+        "link": "/assets",
+        "external": false
+      },
+      {
+        "name": "somfers",
+        "link": "/assets",
+        "external": false
+      }
+    ]
+  },
+  {
     "name": "dao",
     "current": false,
     "children": [
