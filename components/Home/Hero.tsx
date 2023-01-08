@@ -42,7 +42,7 @@ const Hero = () => {
                   image="mferHome.png"
                   buttonId={"one"}
                   buttonAction={action}
-                  path="intro"
+                  path="mfers"
                   color="bg-blue-base"
                 />
                 <NounishButton
@@ -50,7 +50,7 @@ const Hero = () => {
                   image="creyziesHome.png"
                   buttonId={"two"}
                   buttonAction={action}
-                  path="traits"
+                  path="creyzies"
                   color="bg-blue-base"
                 />
                 <NounishButton
@@ -58,39 +58,39 @@ const Hero = () => {
                   image="eosHome.png"
                   buttonId={"three"}
                   buttonAction={action}
-                  path="projects"
+                  path="mfersAhead"
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="rektGuy"
+                  text="mfers behind"
                   image="mferbehindHome.png"
                   buttonId={"four"}
                   buttonAction={action}
-                  path="dao-about"
+                  path="mfersBehind"
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="smowl"
+                  text="sketchy mfers"
                   image="sketchymferHome.png"
                   buttonId={"five"}
                   buttonAction={action}
-                  path="projects"
+                  path="sketchyMfers"
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="cryptoads"
+                  text="somfers"
                   image="somfersHome.png"
                   buttonId={"six"}
                   buttonAction={action}
-                  path="projects"
+                  path="somfers"
                   color="bg-blue-base"
                 />
                 <NounishButton
-                  text="cryptoads"
+                  text="mfers ahead"
                   image="mferaheadHome.png"
                   buttonId={"six"}
                   buttonAction={action}
-                  path="projects"
+                  path="mfersAhead"
                   color="bg-blue-base"
                 />
                 <NounishButton
