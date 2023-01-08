@@ -18,10 +18,9 @@ const Talent = () => {
   return (
     <>
       <PageHeader>
-        <Header title="Team | Candy Shop" />
-        <Title title="Team" />
-
-        <Subheader body="Our mission is to entertain, inform and inspire communities through the power of unparalleled storytelling, reflecting the iconic brands and innovative technologies of the creative commons." />
+        <Header title="Contributors" />
+        <Title title="Contributors" />
+        <Subheader body="" />
       </PageHeader>
 
       <PageContent>
