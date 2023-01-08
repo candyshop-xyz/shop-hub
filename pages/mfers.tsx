@@ -25,11 +25,13 @@ const Intro = () => {
           title=""
           body="reproduced from what are mfers by sartoshi originally published on february 12, 2022"
         />
+                       <img src="https://mirror-media.imgix.net/nft/OCJFveKQZ38P2Jjg9eVpK.jpeg?h=null&amp;w=null&amp;auto=compress" decoding="async" data-nimg="fill" class="css-xah9so" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%">
+
       </PageHeader>
 
       <PageContent>
+
                   <div>
-                                      <img src="https://mirror-media.imgix.net/nft/OCJFveKQZ38P2Jjg9eVpK.jpeg?h=null&amp;w=null&amp;auto=compress" decoding="async" data-nimg="fill" class="css-xah9so" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%">
 
           <TextContent title="lots of mfers been asking ‘what are mfers’ so here’s the backstory">
             <p>
